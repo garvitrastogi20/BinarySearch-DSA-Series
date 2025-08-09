@@ -13,20 +13,20 @@ Each solution includes:
 
 | S.No | Problem | Description | Approach | Time Complexity | Space Complexity | Algorithm Used |
 |------|---------|-------------|----------|-----------------|------------------|----------------|
-| 1 | [Introduction to Binary Search](introduction.cpp) | Search for a target in a sorted array by repeatedly halving the search range. | Iterative | O(log n) | O(1) | Binary Search |
-| 2 | [Binary Search (Recursive)](recursivecode.cpp) | Standard binary search implemented using recursion. | Recursive | O(log n) | O(log n) | Binary Search (Recursion) |
-| 3 | [Lower Bound](lowerbound.cpp) | Find the first index where a given value could be inserted without violating the order. | Iterative | O(log n) | O(1) | Modified Binary Search |
-| 4 | [Upper Bound](upperbound.cpp) | Find the first index where a value greater than the target appears. | Iterative | O(log n) | O(1) | Modified Binary Search |
-| 5 | [Search Insert Position](searchinsertionposition.cpp) | Return index of the target if found, else where it should be inserted in order. | Iterative | O(log n) | O(1) | Binary Search |
-| 6 | [Floor & Ceil in Sorted Array](floorandceil.cpp) | Find floor (largest ≤ target) and ceil (smallest ≥ target) in a sorted array. | Iterative | O(log n) | O(1) | Binary Search |
-| 7 | [First & Last Occurrence (Linear Search)](firstandlastoccuringindexlinearsearch.cpp) | Find first and last positions of a target using a simple scan. | Linear | O(n) | O(1) | Linear Search |
-| 8 | [First & Last Occurrence (LB/UB)](firstandlastoccuringindexlbup.cpp) | Find first and last positions using lower bound and upper bound. | Iterative | O(log n) | O(1) | Lower & Upper Bound |
-| 9 | [Search in Rotated Sorted Array I](searchelementinsortedrotatedarrayI.cpp) | Search for a target in a rotated sorted array without duplicates. | Iterative | O(log n) | O(1) | Modified Binary Search |
-| 10 | [Search in Rotated Sorted Array II](searchelementinsortedrotatedarrayII.cpp) | Search for a target in a rotated sorted array with duplicates. | Iterative | O(log n) | O(1) | Modified Binary Search |
-| 11 | [Minimum in Rotated Sorted Array](minimuminarepeatedsortedarray.cpp) | Find the smallest element in a rotated sorted array. | Iterative | O(log n) | O(1) | Binary Search |
-| 12 | [Count Rotations in Sorted Array](howmanyarrayisrotated.cpp) | Determine how many times a sorted array has been rotated. | Iterative | O(log n) | O(1) | Binary Search |
-| 13 | [Single Element in Sorted Array (Linear Search)](singleelementinasortedarraybruteforce.cpp) | Find the unique element where every other element appears twice. | Linear | O(n) | O(1) | Linear Scan |
-| 14 | [Single Element in Sorted Array (Binary Search)](singleelementinasortedarraybinarysearch.cpp) | Optimized way to find the unique element using binary search properties. | Iterative | O(log n) | O(1) | Binary Search |
+| 1 | [Introduction to Binary Search](codes/introduction.cpp) | Search for a target in a sorted array by repeatedly halving the search range. | Iterative | O(log n) | O(1) | Binary Search |
+| 2 | [Binary Search (Recursive)](codes/recursivecode.cpp) | Standard binary search implemented using recursion. | Recursive | O(log n) | O(log n) | Binary Search (Recursion) |
+| 3 | [Lower Bound](codes/lowerbound.cpp) | Find the first index where a given value could be inserted without violating the order. | Iterative | O(log n) | O(1) | Modified Binary Search |
+| 4 | [Upper Bound](codes/upperbound.cpp) | Find the first index where a value greater than the target appears. | Iterative | O(log n) | O(1) | Modified Binary Search |
+| 5 | [Search Insert Position](codes/searchinsertionposition.cpp) | Return index of the target if found, else where it should be inserted in order. | Iterative | O(log n) | O(1) | Binary Search |
+| 6 | [Floor & Ceil in Sorted Array](codes/floorandceil.cpp) | Find floor (largest ≤ target) and ceil (smallest ≥ target) in a sorted array. | Iterative | O(log n) | O(1) | Binary Search |
+| 7 | [First & Last Occurrence (Linear Search)](codes/firstandlastoccuringindexlinearsearch.cpp) | Find first and last positions of a target using a simple scan. | Linear | O(n) | O(1) | Linear Search |
+| 8 | [First & Last Occurrence (LB/UB)](codes/firstandlastoccuringindexlbup.cpp) | Find first and last positions using lower bound and upper bound. | Iterative | O(log n) | O(1) | Lower & Upper Bound |
+| 9 | [Search in Rotated Sorted Array I](codes/searchelementinsortedrotatedarrayI.cpp) | Search for a target in a rotated sorted array without duplicates. | Iterative | O(log n) | O(1) | Modified Binary Search |
+| 10 | [Search in Rotated Sorted Array II](codes/searchelementinsortedrotatedarrayII.cpp) | Search for a target in a rotated sorted array with duplicates. | Iterative | O(log n) | O(1) | Modified Binary Search |
+| 11 | [Minimum in Rotated Sorted Array](codes/minimuminarepeatedsortedarray.cpp) | Find the smallest element in a rotated sorted array. | Iterative | O(log n) | O(1) | Binary Search |
+| 12 | [Count Rotations in Sorted Array](codes/howmanyarrayisrotated.cpp) | Determine how many times a sorted array has been rotated. | Iterative | O(log n) | O(1) | Binary Search |
+| 13 | [Single Element in Sorted Array (Linear Search)](codes/singleelementinasortedarraybruteforce.cpp) | Find the unique element where every other element appears twice. | Linear | O(n) | O(1) | Linear Scan |
+| 14 | [Single Element in Sorted Array (Binary Search)](codes/singleelementinasortedarraybinarysearch.cpp) | Optimized way to find the unique element using binary search properties. | Iterative | O(log n) | O(1) | Binary Search |
 
 ---
 
